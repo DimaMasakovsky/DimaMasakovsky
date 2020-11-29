@@ -19,4 +19,6 @@ I'm a junior Front-End developer and currently looking for a job 👋
 - CSS 
 - JSON
 - PhotoShop 
+- npm 
+- REST api (basics)
 - C++ (basics)
