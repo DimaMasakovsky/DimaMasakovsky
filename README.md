@@ -12,8 +12,12 @@ I'm a junior Front-End developer and currently looking for a job 👋
 - PhotoShop 
 - npm 
 - Command Line
+- VS Code
 - REST api (basics)
 - C++ (basics)
+#### I've finished few courses 
+- [Codeacademy: HTML, CSS, Git, CLI](https://www.codecademy.com/profiles/Masakovsky)
+- LeverX: SAPUI course
 
 #### My Projects 
 - [G.O.A.T](https://dimamasakovsky.github.io/G.O.A.T-Fallout-3-school-test/) - I've build a copy of a quiz, which was presented in Fallout 3 Game.  
@@ -30,4 +34,7 @@ I'm a junior Front-End developer and currently looking for a job 👋
 </a>
 <a href="https://www.linkedin.com/in/dima-masakovsky/">
   <img align="left" alt="Dima's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://vk.com/dima_masak">
+  <img align="left" alt="Dima's VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
