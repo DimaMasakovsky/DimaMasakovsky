@@ -4,7 +4,9 @@ I'm a junior Front-End developer and currently looking for a job 👋
 
 
 #### Languages, Skills and Tools
-- React (Learning in Progress)
+- Angular
+- RxJS
+- TypeScript
 - JavaScript 
 - HTML 
 - CSS 
@@ -13,8 +15,7 @@ I'm a junior Front-End developer and currently looking for a job 👋
 - npm 
 - Command Line
 - VS Code
-- REST api (basics)
-- C++ (basics)
+- REST api
 #### I've finished few courses 
 - [Codeacademy: HTML, CSS, Git, CLI](https://www.codecademy.com/profiles/Masakovsky)
 - LeverX: SAPUI course
