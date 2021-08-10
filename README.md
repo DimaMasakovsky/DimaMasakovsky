@@ -1,6 +1,6 @@
 ### Hi there, I'm Dima! 🧐 
 
-I'm a junior Front-End developer and currently looking for a job 👋
+I'm a junior Front-End developer 👋
 
 
 #### Languages, Skills and Tools
@@ -18,12 +18,11 @@ I'm a junior Front-End developer and currently looking for a job 👋
 - REST api
 #### I've finished few courses 
 - [Codeacademy: HTML, CSS, Git, CLI](https://www.codecademy.com/profiles/Masakovsky)
-- LeverX: SAPUI course
 
 #### My Projects 
+- [Picloud](https://picloud-project.web.app/) - Kind of social network, built with angular.
 - [G.O.A.T](https://dimamasakovsky.github.io/G.O.A.T-Fallout-3-school-test/) - I've build a copy of a quiz, which was presented in Fallout 3 Game.  
-- [Car-Picker](https://dimamasakovsky.github.io/car-picker-course-project/) - I'm helping my friend with his university project on a business subject by developing a static site for him.  
-- Also I've build some JS projects on courses 
+- [Car-Picker](https://dimamasakovsky.github.io/car-picker-course-project/) - I'm helping my friend with his university project on a business subject by developing a static site for him.
 
 
 #### You can reach me on my social networks
