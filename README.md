@@ -1,21 +1,18 @@
 ### Hi there, I'm Dima! 🧐 
 
-I'm a junior Front-End developer 👋
+I'm a Front-End developer, specializing in React and Angular. Experienced in Telecom Industry 👋
 
 
 #### Languages, Skills and Tools
 - Angular
-- RxJS
+- React
 - TypeScript
 - JavaScript 
 - HTML 
 - CSS 
-- JSON
-- PhotoShop 
-- npm 
-- Command Line
-- VS Code
-- REST api
+- RxJS
+- IntelliJIdea/VS Code
+- REST api/GraphQL
 #### I've finished few courses 
 - [Codeacademy: HTML, CSS, Git, CLI](https://www.codecademy.com/profiles/Masakovsky)
 
@@ -26,15 +23,12 @@ I'm a junior Front-End developer 👋
 
 
 #### You can reach me on my social networks
+<a href="https://www.linkedin.com/in/dima-masakovsky/">
+  <img align="left" alt="Dima's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="https://t.me/spitefulgut">
   <img align="left" alt="Dima's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/dima_masakovsky/">
   <img align="left" alt="Dima's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dima-masakovsky/">
-  <img align="left" alt="Dima's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://vk.com/dima_masak">
-  <img align="left" alt="Dima's VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
