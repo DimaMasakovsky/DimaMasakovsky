@@ -19,8 +19,6 @@ I'm a Front-End developer, specializing in React and Angular. Experienced in Tel
 #### My Projects 
 - [Picloud](https://picloud-project.web.app/) - Kind of social network, built with angular.
 - [G.O.A.T](https://dimamasakovsky.github.io/G.O.A.T-Fallout-3-school-test/) - I've build a copy of a quiz, which was presented in Fallout 3 Game.  
-- [Car-Picker](https://dimamasakovsky.github.io/car-picker-course-project/) - I'm helping my friend with his university project on a business subject by developing a static site for him.
-
 
 #### You can reach me on my social networks
 <a href="https://www.linkedin.com/in/dima-masakovsky/">
